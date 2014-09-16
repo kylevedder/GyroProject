@@ -1,8 +1,12 @@
-#ignore the .launches hidden folder
+#ignore the CCS project files
+/.ccsproject
+/.cproject
+/.project
+/*.ini_initial
+/*.ccxml
+/.settings/
 /.launches/
 
-#ignore the .settings hidden folder
-/.settings/
 
 #ignore the Debug output folder
 /Debug/
