@@ -1,0 +1,10 @@
+#ignore the .launches hidden folder
+/.launches/
+
+#ignore the .settings hidden folder
+/.settings/
+
+#ignore the Debug output folder
+/Debug/
+
+
